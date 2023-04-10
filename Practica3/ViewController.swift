@@ -31,8 +31,6 @@ class ViewController: UIViewController{
             } else{
                 print("No puedo enviar mail")
             }
-            
-            
         }
     }
     
